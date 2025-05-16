@@ -1,0 +1,19 @@
+{
+  "eventHub": "Event Hub",
+  "eventHubSubtitle": "Discover and track exciting events",
+  "applyFilters": "Apply Filters",
+  "reset": "Reset",
+  "all": "All",
+  "upcoming": "Upcoming",
+  "ongoing": "Ongoing",
+  "expired": "Expired",
+  "searchPlaceholder": "Search events...",
+  "category": "Category",
+  "date": "Date",
+  "noEventsFound": "No events found",
+  "failedToLoadEvents": "Failed to load events",
+  "pleaseTryAgainLater": "Please try again later",
+  "welcomeTitle": "Welcome to Event Hub",
+  "welcomeDescription": "Discover upcoming events and manage your calendar.",
+  "copyright": "© 2025 Event Hub. All rights reserved."
+} 
